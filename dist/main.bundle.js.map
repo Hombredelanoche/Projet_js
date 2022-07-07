@@ -1,0 +1,1 @@
+{"version":3,"file":"main.bundle.js","mappings":";;;;;AAAA,IAAMA,OAAO,GAAG,mBAAhB;AAEAC,OAAO,CAACC,GAAR,CAAYF,OAAZ,E","sources":["webpack://projet_js/./src/index.js"],"sourcesContent":["const express = \"Il était une fois\";\r\n\r\nconsole.log(express);"],"names":["express","console","log"],"sourceRoot":""}
